@@ -7,7 +7,7 @@ import {
 } from 'react-native'
 import CommonMark from 'commonmark';
 import styles from './styles';
-import ReactNativeRenderer from './commonmark-react-renderer';
+import ReactNativeRenderer from './commonmark-react-native-renderer';
 
 export default class ReactNativeMarkdown extends React.Component {
   render() {
