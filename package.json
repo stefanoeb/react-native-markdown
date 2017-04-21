@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ccm-innovation/react-native-markdown/issues"
   },
-  "homepage": "https://github.com/ccm-innovation/react-native-markdown#readme"
+  "homepage": "https://github.com/ccm-innovation/react-native-markdown#readme",
+  "dependencies": {
+    "commonmark": "^0.27.0"
+  }
 }
