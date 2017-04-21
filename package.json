@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/ccm-innovation/react-native-markdown#readme",
   "dependencies": {
-    "commonmark": "^0.27.0"
+    "commonmark": "^0.27.0",
+    "lodash": "^4.17.4",
+    "pascalcase": "^0.1.1",
+    "react": "^15.5.4",
+    "react-native": "^0.43.4",
+    "xss-filters": "^1.2.7"
   }
 }
